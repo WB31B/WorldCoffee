@@ -1,0 +1,21 @@
+.app-filter-input {
+  display: flex;
+  margin: 0 40px;
+  align-items: center;
+}
+
+.app-filter-input input {
+  text-align: center;
+  border-radius: 4px;
+  height: 30px;
+  width: 180px;
+  box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+  border: none;
+}
+
+.app-filter-text {
+  margin-right: 19px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+}

@@ -1,0 +1,11 @@
+.header {
+  background-image: url('../../images/headerIMG.png');
+  padding: 30px 0;
+}
+
+.header__title {
+  font-size: 46px;
+  color: white;
+  font-weight: 700;
+  text-align: center;
+}
